@@ -1,0 +1,49 @@
+{
+  "enquiry": [
+    {
+      "firstName": "santoshkumar",
+      "lastName": "chouhan",
+      "email": "Santoshchauhan999k@gmail.com",
+      "mobile": "+917972640271",
+      "weight": 60,
+      "height": 166,
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": "4. Stationary bicycle",
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-22T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "santoshkumar",
+      "lastName": "chouhan",
+      "email": "Santoshchauhan999k@gmail.com",
+      "mobile": "+917972640271",
+      "weight": 55,
+      "height": 166,
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Weekly",
+      "important": "4. Stationary bicycle",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-22T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "shiva",
+      "lastName": "sing",
+      "email": "shiva@gmail.com",
+      "mobile": "7544656551",
+      "weight": 60,
+      "height": 168,
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": "3. Treadmill",
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-18T18:30:00.000Z",
+      "id": 3
+    }
+  ]
+}
